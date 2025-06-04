@@ -1,0 +1,9 @@
+{
+  "name": "wp-propale-plugin",
+  "version": "0.1.0",
+  "description": "Package placeholder for WordPress Propale Manager plugin.",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "license": "MIT"
+}
